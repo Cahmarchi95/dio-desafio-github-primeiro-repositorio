@@ -1,0 +1,25 @@
+Plataforma x Linguagem
+
+Java SE (base da plataforma)
+
+Java EE (desenvolvimento web)
+
+Java ME (desenvolvimento de dispositivos móveis e embarcados=funcções específicas, ex calculadora, urna eletrônica)
+
+
+Fases execução Java
+arquivo.extensão java > JDK compila o arquivo > bytecode arquivo extensão.class > JVM lê o arquivo extensão.class e bibliotecas que estão no JRE
+
+JDK (Java Development kit): compila o código fonte (.java) em bytecode (.class)
+
+JVM (Java Virtual Machine): é a máquina virtual do Java que executa o bytecode (.class) 
+
+JRE (Java runtime environment): ambiente de execução do Java que fornece as bibliotecas padrões do Java para o JDK compilar o código e para o JVM executar o programa 
+
+OpenJDK: VERSÃO GRATUITA
+versão lts java 11
+ LTS (suporte de longo prazo, durante 4 anos)
+
+IDE ou ambiente de desenvolvimento integrado (ajuda no desenvolvimento de programas, são ferramentas)
+Preciso da JDK para desenvolver programas, portanto a JDK  faz parte das IDE'S (IntelliJ, Eclipse, NetBeans, entre outros)
+
