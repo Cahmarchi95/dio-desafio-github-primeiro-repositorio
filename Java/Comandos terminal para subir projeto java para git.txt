@@ -1,0 +1,15 @@
+
+tecla windows + r e cmd
+
+cd local da pasta\nomedapastaondeestáoprograma 
+enter para entrar nessa pasta indicada
+git init (para iniciar o repositório git) 
+enter
+git add . (para adicionar tudo que está dentro da pasta)
+enter
+git commit -m "first commit"
+enter
+git remote add origin https://github.com/Cahmarchi95/quick.git (endereço do repositório específico criado no github, esse endereço varia conforme um novo repositório é criado)
+enter
+git push -u origin master
+enter
