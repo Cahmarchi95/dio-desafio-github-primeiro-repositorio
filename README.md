@@ -6,4 +6,3 @@
 
 [Comandos Git](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
 
-[Atalhos do IntelliJ](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea; (https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf) 
